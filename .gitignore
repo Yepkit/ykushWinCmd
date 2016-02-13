@@ -1,0 +1,10 @@
+*.swp
+*.o
+ykush
+*.so
+*.so.*
+*.dll
+*.exp
+*.lib
+*.bak
+
