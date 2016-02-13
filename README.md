@@ -103,7 +103,7 @@ For Linux the command options and syntax are the same with the slight difference
 Also depending of your user permissions you may need to precede the command with the *sudo* directive (e.g, `sudo ykush -d 1`).
 
 
-For more information and resources for the YKUSH board please visit the [yepkit website ykush page](https://www.yepkit.com/ykush).
+For more information and resources for the YKUSH board please visit the [yepkit website ykush page](https://www.yepkit.com/products/ykush).
 
 
 
